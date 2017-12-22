@@ -1,0 +1,33 @@
+准备的问题：
+
+1.最近mygreencar的进展如何？项目的融资情况，申请情况？
+2.博士后的问题
+
+
+下一步的发展规划：
+结合共享汽车、google map的数据，研究如何准确进行估算行车时间和特点？结合驾驶员的自身风格，修改google map给定的设定车速（Customized style in mygreencar）
+
+
+存在的问题：
+
+无参数：
+2015 BMW X5 Xdrive35i Gasoline conventional
+为不同的车型（EV，PHEV，hybrid）分别设置标定方程
+照顾到欧洲和亚洲用户：
+L/100km not mpg
+无法修改annual distance（APP端）
+Android 7.0是否可以用？
+Price显示问题，目前看不到
+在My Garage中，看不到已经选择的车辆列表
+
+
+1. MGC的一些想法
+	比如共享车
+	新能源车的激进推进
+	比如如何获取数据
+
+4.电价不是敏感factor
+5.machine learning 的进展，如何处理big data
+
+
+
